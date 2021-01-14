@@ -1,0 +1,79 @@
+.backround-image{
+    background-image: url("Image/-1.png");
+    background-repeat: no-repeat;
+    background-position: center top;
+    border: 0px solid black;
+    
+}
+.card{
+    border-radius: 1.5em;
+    width: 100%;
+    border: none;
+    background-color: white;
+
+}
+.card-footer{
+    background-color: white;
+    border: none;
+    border-radius: em;
+}
+.btn{
+    color: white;
+    background-color: #96B032;
+    padding-bottom: px;
+}
+.inline{
+    display: inline;
+    padding-left: 30px;
+    color: goldenrod;
+}
+.cart{
+    width: 25px;
+    height: 25px;
+    padding-left: 5px;
+}
+.icon{
+    border-radius: 1.5em;
+    background-color: white;
+    width: 489px;
+    height: 135px;
+}
+.photo{
+    height: 82px;
+    width: 78px;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+.cart2{
+    margin-bottom: 10px;
+}
+.text-aling{
+    text-align: center;
+    background-position-y: top;
+    justify-content: center;
+    margin-top: -82px;
+    margin-left: 90px;
+}
+.half-width-img{
+    width: 599px;
+    height: 354.07px;
+    float: right;
+}
+.margin-bottom{
+margin-top: -353px;
+}
+.font-size{
+   font-size: 40px;
+}
+h1{
+    font-size: 50px;
+}
+
+.flot{
+    display: flex;
+}
+.column{
+    width: 100%;
+    float: left;
+    background-position-y: bottom;
+}
